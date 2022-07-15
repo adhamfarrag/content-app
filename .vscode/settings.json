@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "vue.lint.unknownAtRules": "ignore",
+  "stylelint.validate": ["vue"],
+  "css.customData": ["./css-data.json"]
+}
